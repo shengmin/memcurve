@@ -1,0 +1,38 @@
+{
+  "name": "memcurve",
+  "description": "Helps people memorize study material",
+  "version": "0.1.0",
+  "homepage": "https://github.com/shengmin/memcurve",
+  "author": {
+    "name": "ShengMin Zhang",
+    "email": "me@shengmin.me",
+    "url": "http://shengmin.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shengmin/memcurve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shengmin/memcurve/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://github.com/shengmin/memcurve/blob/master/LICENSE-Apache-2.0"
+    }
+  ],
+  "main": "lib/memcurve",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "keywords": []
+}
