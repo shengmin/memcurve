@@ -21,7 +21,7 @@
       "url": "https://github.com/shengmin/memcurve/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/memcurve",
+  "main": "src/memcurve",
   "engines": {
     "node": ">= 0.8.0"
   },
