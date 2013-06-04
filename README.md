@@ -1,6 +1,6 @@
 # memcurve [![Build Status](https://secure.travis-ci.org/shengmin/memcurve.png?branch=master)](http://travis-ci.org/shengmin/memcurve)
 
-Helps people memorize study material
+Memorize study materials
 
 ## Getting Started
 Install the module with: `npm install memcurve`
@@ -24,4 +24,4 @@ _(Nothing yet)_
 
 ## License
 Copyright (c) 2013 ShengMin Zhang  
-Licensed under the Apache-2.0 license.
+Licensed under the MIT license.
